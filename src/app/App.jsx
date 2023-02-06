@@ -8,6 +8,7 @@ import FixedPositionDemo from '../components/FixedPositionDemo';
 import LoremIpsum from '../components/LoremIpsum';
 import Playground1 from '../components/Playground1';
 import Playground2 from '../components/Playground2';
+import Playground3 from '../components/Playground3';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
       {/* <SideBySideDemo /> */}
       {/* <FixedPositionDemo /> */}
       {/* <LoremIpsum /> */}
-      <Playground1 />
+      <Playground3 />
     </>
   );
 }

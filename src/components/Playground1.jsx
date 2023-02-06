@@ -6,7 +6,6 @@ import ScrollablePane from './ScrollablePane';
 
 const containerStyles = css`
   color: black;
-
 `;
 
 function Playground1() {
